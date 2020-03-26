@@ -1,0 +1,3 @@
+# Project exclude paths
+/cypress/support/index.d.ts
+/node_modules/
